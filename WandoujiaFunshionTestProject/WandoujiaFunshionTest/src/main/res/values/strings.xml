@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FunshionTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mid_hint">请填入mid</string>
+    <string name="sid_hint">请填入sid</string>
+    <string name="play_button">点击打开风行播放</string>
+    <string name="play_fail">打开失败</string>
+
+</resources>
